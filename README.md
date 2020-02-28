@@ -7,3 +7,4 @@ adding text to the repo
 
 - using github 
 - using FSL
+- adding update for terminal
